@@ -1,0 +1,422 @@
+[
+  {
+    "nome": "Como Perder um Homem em 10 Dias",
+    "imagem": "imgs/como-perder-um-homem.jpg",
+    "descricao": "Uma jornalista e um publicitário entram em um jogo de interesses que acaba se transformando em amor.",
+    "data_criacao": "2003",
+    "link_oficial": "https://www.imdb.com/title/tt0251127/",
+    "tags": [
+      "comédia romântica",
+      "anos 2000",
+      "jornalismo",
+      "relacionamento",
+      "Kate Hudson"
+    ]
+  },
+  {
+    "nome": "Diário de uma Paixão",
+    "imagem": "img/diario-de-uma-paixo.png",
+    "descricao": "Um jovem pobre se apaixona por uma rica herdeira, mas são separados pelas diferenças sociais e pela guerra.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0332280/",
+    "tags": [
+      "romance",
+      "drama",
+      "anos 2000",
+      "amor eterno",
+      "Ryan Gosling"
+    ]
+  },
+  {
+    "nome": "De Repente 30",
+    "imagem": "https://placehold.co/600x900?text=De+Repente+30",
+    "descricao": "Uma garota de 13 anos faz um desejo e acorda com 30 anos, descobrindo que a vida adulta não é o que esperava.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0337563/",
+    "tags": [
+      "comédia romântica",
+      "fantasia",
+      "anos 2000",
+      "anos 80",
+      "Jennifer Garner"
+    ]
+  },
+  {
+    "nome": "Legalmente Loira",
+    "imagem": "https://placehold.co/600x900?text=Legalmente+Loira",
+    "descricao": "Elle Woods entra em Harvard para reconquistar o namorado, mas descobre sua vocação para o direito.",
+    "data_criacao": "2001",
+    "link_oficial": "https://www.imdb.com/title/tt0250494/",
+    "tags": [
+      "comédia",
+      "superação",
+      "anos 2000",
+      "advocacia",
+      "Reese Witherspoon"
+    ]
+  },
+  {
+    "nome": "Como se Fosse a Primeira Vez",
+    "imagem": "https://placehold.co/600x900?text=Como+se+Fosse+a+Primeira+Vez",
+    "descricao": "Um veterinário se apaixona por uma mulher com perda de memória recente e precisa reconquistá-la todos os dias.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0343660/",
+    "tags": [
+      "comédia romântica",
+      "memória",
+      "anos 2000",
+      "Adam Sandler",
+      "Drew Barrymore"
+    ]
+  },
+  {
+    "nome": "O Diabo Veste Prada",
+    "imagem": "https://placehold.co/600x900?text=O+Diabo+Veste+Prada",
+    "descricao": "Uma recém-formada consegue um emprego como assistente de uma poderosa editora de moda, enfrentando desafios profissionais.",
+    "data_criacao": "2006",
+    "link_oficial": "https://www.imdb.com/title/tt0458352/",
+    "tags": [
+      "comédia dramática",
+      "moda",
+      "anos 2000",
+      "carreira",
+      "Meryl Streep"
+    ]
+  },
+  {
+    "nome": "Simplesmente Amor",
+    "imagem": "https://placehold.co/600x900?text=Simplesmente+Amor",
+    "descricao": "Várias histórias de amor se entrelaçam em Londres nas semanas que antecedem o Natal.",
+    "data_criacao": "2003",
+    "link_oficial": "https://www.imdb.com/title/tt0314331/",
+    "tags": [
+      "comédia romântica",
+      "natal",
+      "anos 2000",
+      "histórias cruzadas",
+      "Hugh Grant"
+    ]
+  },
+  {
+    "nome": "Orgulho e Preconceito",
+    "imagem": "https://placehold.co/600x900?text=Orgulho+e+Preconceito",
+    "descricao": "Elizabeth Bennet enfrenta a pressão social e seus próprios sentimentos ao conhecer o rico e orgulhoso Sr. Darcy.",
+    "data_criacao": "2005",
+    "link_oficial": "https://www.imdb.com/title/tt0414387/",
+    "tags": [
+      "romance",
+      "época",
+      "anos 2000",
+      "clássico",
+      "Keira Knightley"
+    ]
+  },
+  {
+    "nome": "Miss Simpatia",
+    "imagem": "https://placehold.co/600x900?text=Miss+Simpatia",
+    "descricao": "Uma agente do FBI precisa se disfarçar de candidata em um concurso de beleza para impedir um atentado.",
+    "data_criacao": "2000",
+    "link_oficial": "https://www.imdb.com/title/tt0212346/",
+    "tags": [
+      "comédia",
+      "ação",
+      "anos 2000",
+      "concurso de beleza",
+      "Sandra Bullock"
+    ]
+  },
+  {
+    "nome": "Um Amor para Recordar",
+    "imagem": "https://placehold.co/600x900?text=Um+Amor+para+Recordar",
+    "descricao": "O garoto popular da escola se apaixona pela filha do pastor, mudando sua vida para sempre.",
+    "data_criacao": "2002",
+    "link_oficial": "https://www.imdb.com/title/tt0281358/",
+    "tags": [
+      "romance",
+      "drama",
+      "anos 2000",
+      "adolescência",
+      "Mandy Moore"
+    ]
+  },
+  {
+    "nome": "O Diário de Bridget Jones",
+    "imagem": "https://placehold.co/600x900?text=O+Diario+de+Bridget+Jones",
+    "descricao": "Uma mulher solteira decide documentar sua vida em um diário enquanto busca o amor e o autoconhecimento.",
+    "data_criacao": "2001",
+    "link_oficial": "https://www.imdb.com/title/tt0243155/",
+    "tags": [
+      "comédia romântica",
+      "britânico",
+      "anos 2000",
+      "triângulo amoroso",
+      "Renée Zellweger"
+    ]
+  },
+  {
+    "nome": "Casamento Grego",
+    "imagem": "https://placehold.co/600x900?text=Casamento+Grego",
+    "descricao": "Uma mulher grega se apaixona por um homem que não é grego, causando confusão em sua família tradicional.",
+    "data_criacao": "2002",
+    "link_oficial": "https://www.imdb.com/title/tt0259446/",
+    "tags": [
+      "comédia romântica",
+      "família",
+      "anos 2000",
+      "cultura",
+      "Nia Vardalos"
+    ]
+  },
+  {
+    "nome": "A Proposta",
+    "imagem": "https://placehold.co/600x900?text=A+Proposta",
+    "descricao": "Uma editora canadense força seu assistente a se casar com ela para evitar a deportação dos EUA.",
+    "data_criacao": "2009",
+    "link_oficial": "https://www.imdb.com/title/tt1041829/",
+    "tags": [
+      "comédia romântica",
+      "chefe e empregado",
+      "anos 2000",
+      "Sandra Bullock",
+      "Ryan Reynolds"
+    ]
+  },
+  {
+    "nome": "Encantada",
+    "imagem": "https://placehold.co/600x900?text=Encantada",
+    "descricao": "Uma princesa de contos de fadas é transportada para a Nova York moderna e se apaixona por um advogado cético.",
+    "data_criacao": "2007",
+    "link_oficial": "https://www.imdb.com/title/tt0461770/",
+    "tags": [
+      "fantasia",
+      "musical",
+      "anos 2000",
+      "Disney",
+      "Amy Adams"
+    ]
+  },
+  {
+    "nome": "Mamma Mia!",
+    "imagem": "https://placehold.co/600x900?text=Mamma+Mia",
+    "descricao": "Uma noiva convida três ex-namorados de sua mãe para seu casamento na Grécia, tentando descobrir quem é seu pai.",
+    "data_criacao": "2008",
+    "link_oficial": "https://www.imdb.com/title/tt0795421/",
+    "tags": [
+      "musical",
+      "romance",
+      "anos 2000",
+      "Grécia",
+      "Meryl Streep"
+    ]
+  },
+  {
+    "nome": "O Amor Não Tira Férias",
+    "imagem": "https://placehold.co/600x900?text=O+Amor+Nao+Tira+Ferias",
+    "descricao": "Duas mulheres trocam de casa no Natal para fugir de seus problemas amorosos e acabam encontrando novos romances.",
+    "data_criacao": "2006",
+    "link_oficial": "https://www.imdb.com/title/tt0457939/",
+    "tags": [
+      "comédia romântica",
+      "troca de casas",
+      "anos 2000",
+      "Cameron Diaz",
+      "Kate Winslet"
+    ]
+  },
+  {
+    "nome": "Vestida para Casar",
+    "imagem": "https://placehold.co/600x900?text=Vestida+para+Casar",
+    "descricao": "Uma eterna dama de honra luta com seus sentimentos quando sua irmã decide se casar com o homem que ela ama.",
+    "data_criacao": "2008",
+    "link_oficial": "https://www.imdb.com/title/tt0988595/",
+    "tags": [
+      "comédia romântica",
+      "casamento",
+      "anos 2000",
+      "Katherine Heigl",
+      "irmãs"
+    ]
+  },
+  {
+    "nome": "Hitch - Conselheiro Amoroso",
+    "imagem": "https://placehold.co/600x900?text=Hitch",
+    "descricao": "Um especialista em namoro ajuda homens a conquistarem as mulheres de seus sonhos, mas falha ao tentar aplicar suas técnicas em si mesmo.",
+    "data_criacao": "2005",
+    "link_oficial": "https://www.imdb.com/title/tt0386588/",
+    "tags": [
+      "comédia romântica",
+      "conquista",
+      "anos 2000",
+      "Will Smith",
+      "Eva Mendes"
+    ]
+  },
+  {
+    "nome": "Doce Lar",
+    "imagem": "https://placehold.co/600x900?text=Doce+Lar",
+    "descricao": "Uma estilista de Nova York volta ao Alabama para obter o divórcio de seu marido de infância, mas o passado ressurge.",
+    "data_criacao": "2002",
+    "link_oficial": "https://www.imdb.com/title/tt0256415/",
+    "tags": [
+      "comédia romântica",
+      "sul dos EUA",
+      "anos 2000",
+      "passado",
+      "Reese Witherspoon"
+    ]
+  },
+  {
+    "nome": "Encontro de Amor",
+    "imagem": "https://placehold.co/600x900?text=Encontro+de+Amor",
+    "descricao": "Uma camareira de hotel é confundida com uma socialite por um político, iniciando um romance improvável.",
+    "data_criacao": "2002",
+    "link_oficial": "https://www.imdb.com/title/tt0252076/",
+    "tags": [
+      "comédia romântica",
+      "Cinderela moderna",
+      "anos 2000",
+      "Jennifer Lopez",
+      "Ralph Fiennes"
+    ]
+  },
+  {
+    "nome": "O Diário da Princesa",
+    "imagem": "https://placehold.co/600x900?text=O+Diario+da+Princesa",
+    "descricao": "Uma adolescente desajeitada descobre que é a herdeira do trono de um pequeno país europeu e precisa aprender a agir como realeza.",
+    "data_criacao": "2001",
+    "link_oficial": "https://www.imdb.com/title/tt0247638/",
+    "tags": [
+      "comédia",
+      "princesa",
+      "anos 2000",
+      "transformação",
+      "Anne Hathaway"
+    ]
+  },
+  {
+    "nome": "A Nova Cinderela",
+    "imagem": "https://placehold.co/600x900?text=A+Nova+Cinderela",
+    "descricao": "Uma estudante explorada pela madrasta sonha em ir para Princeton e conhece seu príncipe encantado através de mensagens de texto.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0356470/",
+    "tags": [
+      "comédia romântica",
+      "adolescente",
+      "anos 2000",
+      "conto de fadas moderno",
+      "Hilary Duff"
+    ]
+  },
+  {
+    "nome": "Um Príncipe em Minha Vida",
+    "imagem": "https://placehold.co/600x900?text=Um+Principe+em+Minha+Vida",
+    "descricao": "Uma estudante de medicina focada nos estudos se apaixona por um colega de faculdade, sem saber que ele é um príncipe dinamarquês.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0337697/",
+    "tags": [
+      "romance",
+      "realeza",
+      "anos 2000",
+      "faculdade",
+      "Julia Stiles"
+    ]
+  },
+  {
+    "nome": "Uma Garota Encantada",
+    "imagem": "https://placehold.co/600x900?text=Uma+Garota+Encantada",
+    "descricao": "Ella recebe o dom da obediência ao nascer e embarca em uma jornada para quebrar o feitiço, encontrando o amor pelo caminho.",
+    "data_criacao": "2004",
+    "link_oficial": "https://www.imdb.com/title/tt0327679/",
+    "tags": [
+      "fantasia",
+      "comédia",
+      "anos 2000",
+      "magia",
+      "Anne Hathaway"
+    ]
+  },
+  {
+    "nome": "P.S. Eu Te Amo",
+    "imagem": "https://placehold.co/600x900?text=PS+Eu+Te+Amo",
+    "descricao": "Uma jovem viúva descobre cartas deixadas por seu falecido marido para ajudá-la a superar a dor e recomeçar a vida.",
+    "data_criacao": "2007",
+    "link_oficial": "https://www.imdb.com/title/tt0431308/",
+    "tags": [
+      "drama",
+      "romance",
+      "anos 2000",
+      "luto",
+      "Hilary Swank"
+    ]
+  },
+  {
+    "nome": "A Casa do Lago",
+    "imagem": "https://placehold.co/600x900?text=A+Casa+do+Lago",
+    "descricao": "Um médico solitário e uma arquiteta trocam cartas através de uma caixa de correio mágica que conecta tempos diferentes.",
+    "data_criacao": "2006",
+    "link_oficial": "https://www.imdb.com/title/tt0410297/",
+    "tags": [
+      "romance",
+      "fantasia",
+      "anos 2000",
+      "cartas",
+      "Sandra Bullock"
+    ]
+  },
+  {
+    "nome": "E Se Fosse Verdade",
+    "imagem": "https://placehold.co/600x900?text=E+Se+Fosse+Verdade",
+    "descricao": "Um arquiteto paisagista se apaixona pelo espírito de uma mulher que costumava morar em seu novo apartamento.",
+    "data_criacao": "2005",
+    "link_oficial": "https://www.imdb.com/title/tt0425123/",
+    "tags": [
+      "comédia romântica",
+      "fantasia",
+      "anos 2000",
+      "espírito",
+      "Reese Witherspoon"
+    ]
+  },
+  {
+    "nome": "O Melhor Amigo da Noiva",
+    "imagem": "https://placehold.co/600x900?text=O+Melhor+Amigo+da+Noiva",
+    "descricao": "Um homem percebe que está apaixonado por sua melhor amiga logo depois que ela anuncia seu noivado com outro.",
+    "data_criacao": "2008",
+    "link_oficial": "https://www.imdb.com/title/tt0866439/",
+    "tags": [
+      "comédia romântica",
+      "casamento",
+      "anos 2000",
+      "amizade",
+      "Patrick Dempsey"
+    ]
+  },
+  {
+    "nome": "Sorte no Amor",
+    "imagem": "https://placehold.co/600x900?text=Sorte+no+Amor",
+    "descricao": "A garota mais sortuda de Nova York perde sua sorte após beijar o rapaz mais azarado da cidade em uma festa.",
+    "data_criacao": "2006",
+    "link_oficial": "https://www.imdb.com/title/tt0397078/",
+    "tags": [
+      "comédia romântica",
+      "sorte",
+      "anos 2000",
+      "adolescente",
+      "Lindsay Lohan"
+    ]
+  },
+  {
+    "nome": "Três Vezes Amor",
+    "imagem": "https://placehold.co/600x900?text=Tres+Vezes+Amor",
+    "descricao": "Um consultor político tenta explicar seu divórcio iminente e seus relacionamentos passados para sua filha de 11 anos.",
+    "data_criacao": "2008",
+    "link_oficial": "https://www.imdb.com/title/tt0832266/",
+    "tags": [
+      "comédia romântica",
+      "mistério",
+      "anos 2000",
+      "pai e filha",
+      "Ryan Reynolds"
+    ]
+  }
+]   
