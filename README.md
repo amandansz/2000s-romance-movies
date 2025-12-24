@@ -8,8 +8,12 @@ O projeto teve sua base inicial desenvolvida durante o curso **Imersão Dev com 
 
 ## Estado atual do projeto
 
-Em desenvolvimento ativo.  
-A arquitetura e as funcionalidades estão sendo gradualmente refinadas, com previsões de refatoração e expansão do escopo funcional.
+Em desenvolvimento ativo, a arquitetura e as funcionalidades estão sendo gradualmente refinadas, com previsões de refatoração e expansão do escopo funcional.
+
+### URL da aplicação
+
+https://amandansz.github.io/romantic-movies-catalog/
+
 
 ---
 
