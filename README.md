@@ -2,7 +2,7 @@
 
 Amor em Cena é uma aplicação web, em desenvolvimento, destinada à indexação, consulta e apresentação de um conjunto estruturado de dados sobre filmes românticos lançados nos anos 2000. A aplicação opera inteiramente no lado do cliente, realizando carregamento assíncrono de dados, filtragem em tempo real e renderização dinâmica de componentes de interface.
 
-O projeto teve sua base inicial desenvolvida durante o curso **Imersão Dev com Gemini 10**, da **Alura**, e posteriormente passou a ser evoluído de forma independente, com foco em aprofundamento técnico, organização de código e consolidação de fundamentos de desenvolvimento web.
+O projeto teve sua base inicial desenvolvida durante o curso **Imersão Dev com Google Gemini 10ª edição**, da **Alura**, e posteriormente passou a ser evoluído de forma independente, com foco em aprofundamento técnico, organização de código e consolidação de fundamentos de desenvolvimento web.
 
 ---
 
