@@ -12,8 +12,7 @@ Em desenvolvimento ativo, a arquitetura e as funcionalidades estão sendo gradua
 
 ### URL da aplicação
 
-https://amandansz.github.io/romantic-movies-catalog/
-
+https://amandansz.github.io/2000s-romance-movies/
 
 ---
 
