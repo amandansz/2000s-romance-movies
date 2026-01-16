@@ -1,7 +1,7 @@
 [
   {
     "nome": "Como Perder um Homem em 10 Dias",
-    "imagem": "imgs/como-perder-um-homem.jpg",
+    "imagem": "img/como-perder-um-homem.jpg",
     "descricao": "Uma jornalista e um publicitário entram em um jogo de interesses que acaba se transformando em amor.",
     "data_criacao": "2003",
     "link_oficial": "https://www.imdb.com/title/tt0251127/",
@@ -15,7 +15,7 @@
   },
   {
     "nome": "Diário de uma Paixão",
-    "imagem": "img/diario-de-uma-paixo.png",
+    "imagem": "img/diario-de-uma-paixao.jpg",
     "descricao": "Um jovem pobre se apaixona por uma rica herdeira, mas são separados pelas diferenças sociais e pela guerra.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0332280/",
@@ -29,7 +29,7 @@
   },
   {
     "nome": "De Repente 30",
-    "imagem": "https://placehold.co/600x900?text=De+Repente+30",
+    "imagem": "img/de-repente-30.jpg",
     "descricao": "Uma garota de 13 anos faz um desejo e acorda com 30 anos, descobrindo que a vida adulta não é o que esperava.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0337563/",
@@ -43,7 +43,7 @@
   },
   {
     "nome": "Legalmente Loira",
-    "imagem": "https://placehold.co/600x900?text=Legalmente+Loira",
+    "imagem": "img/legalmente-loira.jpg",
     "descricao": "Elle Woods entra em Harvard para reconquistar o namorado, mas descobre sua vocação para o direito.",
     "data_criacao": "2001",
     "link_oficial": "https://www.imdb.com/title/tt0250494/",
@@ -57,7 +57,7 @@
   },
   {
     "nome": "Como se Fosse a Primeira Vez",
-    "imagem": "https://placehold.co/600x900?text=Como+se+Fosse+a+Primeira+Vez",
+    "imagem": "img/como-se-fosse-a-primeira-vez.jpg",
     "descricao": "Um veterinário se apaixona por uma mulher com perda de memória recente e precisa reconquistá-la todos os dias.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0343660/",
@@ -71,7 +71,7 @@
   },
   {
     "nome": "O Diabo Veste Prada",
-    "imagem": "https://placehold.co/600x900?text=O+Diabo+Veste+Prada",
+    "imagem": "img/o-diabo-veste-prada.jpg",
     "descricao": "Uma recém-formada consegue um emprego como assistente de uma poderosa editora de moda, enfrentando desafios profissionais.",
     "data_criacao": "2006",
     "link_oficial": "https://www.imdb.com/title/tt0458352/",
@@ -85,7 +85,7 @@
   },
   {
     "nome": "Simplesmente Amor",
-    "imagem": "https://placehold.co/600x900?text=Simplesmente+Amor",
+    "imagem": "img/simplesmente-amor.jpg",
     "descricao": "Várias histórias de amor se entrelaçam em Londres nas semanas que antecedem o Natal.",
     "data_criacao": "2003",
     "link_oficial": "https://www.imdb.com/title/tt0314331/",
@@ -99,7 +99,7 @@
   },
   {
     "nome": "Orgulho e Preconceito",
-    "imagem": "https://placehold.co/600x900?text=Orgulho+e+Preconceito",
+    "imagem": "img/orgulho-e-preconceito.jpg",
     "descricao": "Elizabeth Bennet enfrenta a pressão social e seus próprios sentimentos ao conhecer o rico e orgulhoso Sr. Darcy.",
     "data_criacao": "2005",
     "link_oficial": "https://www.imdb.com/title/tt0414387/",
@@ -113,7 +113,7 @@
   },
   {
     "nome": "Miss Simpatia",
-    "imagem": "https://placehold.co/600x900?text=Miss+Simpatia",
+    "imagem": "img/miss-simpatia.jpg",
     "descricao": "Uma agente do FBI precisa se disfarçar de candidata em um concurso de beleza para impedir um atentado.",
     "data_criacao": "2000",
     "link_oficial": "https://www.imdb.com/title/tt0212346/",
@@ -127,7 +127,7 @@
   },
   {
     "nome": "Um Amor para Recordar",
-    "imagem": "https://placehold.co/600x900?text=Um+Amor+para+Recordar",
+    "imagem": "img/um-amor-para-recordar.jpg",
     "descricao": "O garoto popular da escola se apaixona pela filha do pastor, mudando sua vida para sempre.",
     "data_criacao": "2002",
     "link_oficial": "https://www.imdb.com/title/tt0281358/",
@@ -141,7 +141,7 @@
   },
   {
     "nome": "O Diário de Bridget Jones",
-    "imagem": "https://placehold.co/600x900?text=O+Diario+de+Bridget+Jones",
+    "imagem": "img/o-diario-de-bridget-jones.jpg",
     "descricao": "Uma mulher solteira decide documentar sua vida em um diário enquanto busca o amor e o autoconhecimento.",
     "data_criacao": "2001",
     "link_oficial": "https://www.imdb.com/title/tt0243155/",
@@ -155,7 +155,7 @@
   },
   {
     "nome": "Casamento Grego",
-    "imagem": "https://placehold.co/600x900?text=Casamento+Grego",
+    "imagem": "img/casamento-grego.jpg",
     "descricao": "Uma mulher grega se apaixona por um homem que não é grego, causando confusão em sua família tradicional.",
     "data_criacao": "2002",
     "link_oficial": "https://www.imdb.com/title/tt0259446/",
@@ -169,7 +169,7 @@
   },
   {
     "nome": "A Proposta",
-    "imagem": "https://placehold.co/600x900?text=A+Proposta",
+    "imagem": "img/a-proposta.jpg",
     "descricao": "Uma editora canadense força seu assistente a se casar com ela para evitar a deportação dos EUA.",
     "data_criacao": "2009",
     "link_oficial": "https://www.imdb.com/title/tt1041829/",
@@ -183,7 +183,7 @@
   },
   {
     "nome": "Encantada",
-    "imagem": "https://placehold.co/600x900?text=Encantada",
+    "imagem": "img/encantada.jpg",
     "descricao": "Uma princesa de contos de fadas é transportada para a Nova York moderna e se apaixona por um advogado cético.",
     "data_criacao": "2007",
     "link_oficial": "https://www.imdb.com/title/tt0461770/",
@@ -197,7 +197,7 @@
   },
   {
     "nome": "Mamma Mia!",
-    "imagem": "https://placehold.co/600x900?text=Mamma+Mia",
+    "imagem": "img/mamma-mia.jpg",
     "descricao": "Uma noiva convida três ex-namorados de sua mãe para seu casamento na Grécia, tentando descobrir quem é seu pai.",
     "data_criacao": "2008",
     "link_oficial": "https://www.imdb.com/title/tt0795421/",
@@ -211,7 +211,7 @@
   },
   {
     "nome": "O Amor Não Tira Férias",
-    "imagem": "https://placehold.co/600x900?text=O+Amor+Nao+Tira+Ferias",
+    "imagem": "img/o-amor-nao-tira-ferias.jpg",
     "descricao": "Duas mulheres trocam de casa no Natal para fugir de seus problemas amorosos e acabam encontrando novos romances.",
     "data_criacao": "2006",
     "link_oficial": "https://www.imdb.com/title/tt0457939/",
@@ -225,7 +225,7 @@
   },
   {
     "nome": "Vestida para Casar",
-    "imagem": "https://placehold.co/600x900?text=Vestida+para+Casar",
+    "imagem": "img/vestida-pra-casar.jpg",
     "descricao": "Uma eterna dama de honra luta com seus sentimentos quando sua irmã decide se casar com o homem que ela ama.",
     "data_criacao": "2008",
     "link_oficial": "https://www.imdb.com/title/tt0988595/",
@@ -239,7 +239,7 @@
   },
   {
     "nome": "Hitch - Conselheiro Amoroso",
-    "imagem": "https://placehold.co/600x900?text=Hitch",
+    "imagem": "img/conselheiro-amoroso.jpg",
     "descricao": "Um especialista em namoro ajuda homens a conquistarem as mulheres de seus sonhos, mas falha ao tentar aplicar suas técnicas em si mesmo.",
     "data_criacao": "2005",
     "link_oficial": "https://www.imdb.com/title/tt0386588/",
@@ -253,7 +253,7 @@
   },
   {
     "nome": "Doce Lar",
-    "imagem": "https://placehold.co/600x900?text=Doce+Lar",
+    "imagem": "img/doce-lar.jpg",
     "descricao": "Uma estilista de Nova York volta ao Alabama para obter o divórcio de seu marido de infância, mas o passado ressurge.",
     "data_criacao": "2002",
     "link_oficial": "https://www.imdb.com/title/tt0256415/",
@@ -267,7 +267,7 @@
   },
   {
     "nome": "Encontro de Amor",
-    "imagem": "https://placehold.co/600x900?text=Encontro+de+Amor",
+    "imagem": "img/encontro-de-amor.jpg",
     "descricao": "Uma camareira de hotel é confundida com uma socialite por um político, iniciando um romance improvável.",
     "data_criacao": "2002",
     "link_oficial": "https://www.imdb.com/title/tt0252076/",
@@ -281,7 +281,7 @@
   },
   {
     "nome": "O Diário da Princesa",
-    "imagem": "https://placehold.co/600x900?text=O+Diario+da+Princesa",
+    "imagem": "img/diario-de-uma-princesa.jpg",
     "descricao": "Uma adolescente desajeitada descobre que é a herdeira do trono de um pequeno país europeu e precisa aprender a agir como realeza.",
     "data_criacao": "2001",
     "link_oficial": "https://www.imdb.com/title/tt0247638/",
@@ -295,7 +295,7 @@
   },
   {
     "nome": "A Nova Cinderela",
-    "imagem": "https://placehold.co/600x900?text=A+Nova+Cinderela",
+    "imagem": "img/a-nova-cinderela.jpg",
     "descricao": "Uma estudante explorada pela madrasta sonha em ir para Princeton e conhece seu príncipe encantado através de mensagens de texto.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0356470/",
@@ -309,7 +309,7 @@
   },
   {
     "nome": "Um Príncipe em Minha Vida",
-    "imagem": "https://placehold.co/600x900?text=Um+Principe+em+Minha+Vida",
+    "imagem": "img/um-principe-em-minha-vida.jpg",
     "descricao": "Uma estudante de medicina focada nos estudos se apaixona por um colega de faculdade, sem saber que ele é um príncipe dinamarquês.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0337697/",
@@ -323,7 +323,7 @@
   },
   {
     "nome": "Uma Garota Encantada",
-    "imagem": "https://placehold.co/600x900?text=Uma+Garota+Encantada",
+    "imagem": "img/uma-garota-encantada.jpg",
     "descricao": "Ella recebe o dom da obediência ao nascer e embarca em uma jornada para quebrar o feitiço, encontrando o amor pelo caminho.",
     "data_criacao": "2004",
     "link_oficial": "https://www.imdb.com/title/tt0327679/",
@@ -337,7 +337,7 @@
   },
   {
     "nome": "P.S. Eu Te Amo",
-    "imagem": "https://placehold.co/600x900?text=PS+Eu+Te+Amo",
+    "imagem": "img/ps-eu-te-amo.jpg",
     "descricao": "Uma jovem viúva descobre cartas deixadas por seu falecido marido para ajudá-la a superar a dor e recomeçar a vida.",
     "data_criacao": "2007",
     "link_oficial": "https://www.imdb.com/title/tt0431308/",
@@ -351,7 +351,7 @@
   },
   {
     "nome": "A Casa do Lago",
-    "imagem": "https://placehold.co/600x900?text=A+Casa+do+Lago",
+    "imagem": "img/a-casa-do-lago.jpg",
     "descricao": "Um médico solitário e uma arquiteta trocam cartas através de uma caixa de correio mágica que conecta tempos diferentes.",
     "data_criacao": "2006",
     "link_oficial": "https://www.imdb.com/title/tt0410297/",
@@ -365,7 +365,7 @@
   },
   {
     "nome": "E Se Fosse Verdade",
-    "imagem": "https://placehold.co/600x900?text=E+Se+Fosse+Verdade",
+    "imagem": "img/e-se-fosse-verdade.jpg",
     "descricao": "Um arquiteto paisagista se apaixona pelo espírito de uma mulher que costumava morar em seu novo apartamento.",
     "data_criacao": "2005",
     "link_oficial": "https://www.imdb.com/title/tt0425123/",
@@ -379,7 +379,7 @@
   },
   {
     "nome": "O Melhor Amigo da Noiva",
-    "imagem": "https://placehold.co/600x900?text=O+Melhor+Amigo+da+Noiva",
+    "imagem": "img/o-melhor-amigo-da-noiva.jpg",
     "descricao": "Um homem percebe que está apaixonado por sua melhor amiga logo depois que ela anuncia seu noivado com outro.",
     "data_criacao": "2008",
     "link_oficial": "https://www.imdb.com/title/tt0866439/",
@@ -393,7 +393,7 @@
   },
   {
     "nome": "Sorte no Amor",
-    "imagem": "https://placehold.co/600x900?text=Sorte+no+Amor",
+    "imagem": "img/sorte-no-amor.jpg",
     "descricao": "A garota mais sortuda de Nova York perde sua sorte após beijar o rapaz mais azarado da cidade em uma festa.",
     "data_criacao": "2006",
     "link_oficial": "https://www.imdb.com/title/tt0397078/",
@@ -407,7 +407,7 @@
   },
   {
     "nome": "Três Vezes Amor",
-    "imagem": "https://placehold.co/600x900?text=Tres+Vezes+Amor",
+    "imagem": "img/tres-vezes-amor.jpg",
     "descricao": "Um consultor político tenta explicar seu divórcio iminente e seus relacionamentos passados para sua filha de 11 anos.",
     "data_criacao": "2008",
     "link_oficial": "https://www.imdb.com/title/tt0832266/",

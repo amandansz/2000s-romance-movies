@@ -41,6 +41,7 @@ function renderizarCards(dados) {
         }
 
         article.innerHTML = `
+        <img src="${dado.imagem}" alt="${dado.nome}" class="card-imagem">
         <h2>${dado.nome}</h2>
         <p>${dado.data_criacao}</p>
         <p>${dado.descricao}</p>
