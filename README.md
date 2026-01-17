@@ -1,4 +1,4 @@
-# Amor em Cena
+# Catálogo Amor em Cena
 
 Amor em Cena é uma aplicação web, em desenvolvimento, destinada à indexação, consulta e apresentação de um conjunto estruturado de dados sobre filmes românticos lançados nos anos 2000. A aplicação opera inteiramente no lado do cliente, realizando carregamento assíncrono de dados, filtragem em tempo real e renderização dinâmica de componentes de interface.
 
